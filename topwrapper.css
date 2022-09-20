@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    font-family: "lucida Grande";
+    background-image: url("yoyo.jpeg");
+    background-size: cover;
+}
+li {
+    list-style: none;
+    float: right;
+    padding: 20px 30px;
+
+}
+.bg{
+    background-color: blue;
+}
+.header {
+    height: 100px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    float: left;
+    background-color: yellow;
+
+}
+
+.header-list {
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: yellowgreen;
+
+}
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(IMG_0741.JPG);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.top-wrapper h1 {
+    opacity: 0,7;
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.top-wrapper p {
+    opacity: 0,7;
+    margin-bottom: 10px;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0,7;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.signup {
+    background-color: rgb(49, 186, 14);
+}
+
+.facebook {
+    background-color: rgb(0, 77, 221);
+    margin-right: 10px;
+}
+
+.twitter {
+    background-color: rgb(78, 128, 221);
+}
+.Koran-page{
+    background-color: beige;
+    height: 700px; 
+    width: auto;
+}
+.judul-koran{
+    font-family: sans-serif;
+    color: black;
+    
+}
+.isi-koran{
+    font-family: sans-serif;
+    color: black;
+    column-count: 3;
+    -webkit-column-count:3 ;
+
+}
+
+.contact-form {
+    padding-top: 50px;
+    padding-left: 40px;
+
+}
+input,textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+}
+input,textarea {
+    border: 1px solid #dee7ec;
+}
+.submit-contact {
+    background-color: #dee7ec ;
+    color: rgb(255, 255, 255);
+}
+.contact-form{
+    color: aliceblue;
+    background-color: royalblue;
+
+}
+
+.section-title{
+    
+
+
+}
+.footer {
+    height: 100px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    float: left;
+    background-color: yellow;
+
+}
+
+.footer-list {
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: yellowgreen;
+}
